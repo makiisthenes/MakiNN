@@ -1,10 +1,11 @@
 
 # MakiNN
-Nueral Networks Research and Developement
-<p align="center">
-  <img src="https://raw.githubusercontent.com/makiisthenes/MakiNN/master/overall_understanding.png", width=2000>
-</p>
-![Adagrad Workinh](https://user-images.githubusercontent.com/52138450/115085547-9f855b00-9f02-11eb-86fa-69d50269a47b.PNG)
+#### Nueral Networks Research and Developement
+
+
+![Overall Understaing](https://raw.githubusercontent.com/makiisthenes/MakiNN/master/overall_understanding.png", width=2000)
+
+![Adagrad Working](https://user-images.githubusercontent.com/52138450/115085547-9f855b00-9f02-11eb-86fa-69d50269a47b.PNG)
 ![back_propagation](https://user-images.githubusercontent.com/52138450/115085553-a14f1e80-9f02-11eb-9be3-71c887512b0d.png)
 ![back2](https://user-images.githubusercontent.com/52138450/115085561-a4e2a580-9f02-11eb-9fee-b39b1880e383.png)
 
