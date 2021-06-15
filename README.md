@@ -14,7 +14,6 @@
 ![momentumSGD](https://user-images.githubusercontent.com/52138450/115085603-af04a400-9f02-11eb-876e-5af960cdf015.png)
 ![nn_class](https://user-images.githubusercontent.com/52138450/115085604-af9d3a80-9f02-11eb-9214-688392a378c9.jpg)
 ![softmax_derivative](https://user-images.githubusercontent.com/52138450/115085607-b0ce6780-9f02-11eb-96c9-66b46f2d9e88.png)
-![Adagrad Working](https://user-images.githubusercontent.com/52138450/115085547-9f855b00-9f02-11eb-86fa-69d50269a47b.PNG)
 ![overall_understanding_part1](https://user-images.githubusercontent.com/52138450/115085622-b9bf3900-9f02-11eb-970c-a331fabf8fed.png)
 
 
