@@ -1181,6 +1181,3 @@ class Optimizer_Adagrad:
 
 # Regularization
 # Dropout
-
-
-# Yh gg i forgot everything i wrote
